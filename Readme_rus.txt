@@ -2,10 +2,10 @@
 
 Порядок установки.
 
-1. Скопируйте файлы Recorder_Tablature_S_B.qml, Recorder_Tablature_S_G.qml, Recorder_Tablature_A_B.qml, Recorder_Tablature_A_G.qml в папку %userprofile%\Documents\MuseScore2\Плагины или %programfiles(x86)%\MuseScore2\Plugins
+1. Скопируйте файлы Recorder_Tablature.qml в папку %userprofile%\Documents\MuseScore2\Плагины или %programfiles(x86)%\MuseScore2\Plugins
 2. Установите шрифт RecorderFontYamahaEdition.ttf (двойной клик по файлу - Установить)
 3. Запустите MuseScore
-4. Зайдите в меню Плагины - Управление плагинами, отметьте Recorder_Tablature_S_B, Recorder_Tablature_S_G, Recorder_Tablature_A_B, Recorder_Tablature_A_G или только нужные, нажмите Ок.
+4. Зайдите в меню Плагины - Управление плагинами, отметьте Recorder_Tablature или только нужные, нажмите Ок.
 5. В меню Плагины выберите Recorder Tablature и нужную аппликатуру. Установите желаемый размер шрифта (от 15 до 60) и нажмите Ок.
 6. Наслаждайтесь!
 
