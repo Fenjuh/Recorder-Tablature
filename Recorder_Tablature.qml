@@ -170,8 +170,8 @@ MuseScore {
                         var index = pitch - basePitch;
                         if(index >= 0 && index < fingerings.length){ 
                               var text = newElement(Element.STAFF_TEXT);
-                              text.text = "<font face=\"Recorder Font\"/>"+fingerings[index];
-                              text.text = "<font size=\""+size+"\"/>"+text.text;
+                              text.text = "<font face=\"Recorder Font\">"+fingerings[index];
+                              text.text = "<font size=\""+size+"\">"+text.text;
                               text.text = text.text + "</font></font>";
 console.log(text.text);
                               text.pos.y = 10;
